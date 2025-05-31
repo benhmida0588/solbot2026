@@ -1,0 +1,9 @@
+{
+  "swapAmount": 0.01,
+  "tradeMode": "buy",
+  "concurrencyLimit": 1,
+  "tokenAddress": "Gh9ZwEmdLJ8DscKNTkTqPbNwLNNBjuSzaG1Nf2b7QvD",
+  "swapAmountLamports": 10000000,
+  "tokenList": ["Gh9ZwEmdLJ8DscKNTkTqPbNwLNNBjuSzaG1Nf2b7QvD"],
+  "isTrading": false
+}
